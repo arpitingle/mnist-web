@@ -2,7 +2,7 @@
 
 WebAssembly port of Neural Network Implementation for the MNIST dataset written in C 
 
-```
+``` console
 make project 
 ```
 
