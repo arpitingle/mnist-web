@@ -1,6 +1,6 @@
 # mnist-web
 
-WebAssembly port of Neural Network Implementation for the MNIST dataset written in C 
+WebAssembly port of Neural Network Implementation for the MNIST dataset 
 
 You will need [emscript](https://emscripten.org/docs/getting_started/downloads.html)
 
